@@ -1,0 +1,10 @@
+.jumbotron{
+    background-color: #00ae58;
+    color: #ffffff;
+}
+.jumbotron>h1, .jumbotron .lead{
+    font-weight: bolder;
+}
+img{
+    margin-top: 1.5rem;
+}
